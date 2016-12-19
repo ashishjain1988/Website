@@ -383,7 +383,7 @@ img {
 	background: #ffffff url(../images/bg-footer.png) repeat-x left top;
 }
 #footer > div {
-	width: 940px;
+	width: 1040px;
 	margin: 0 auto;
 	padding: 60px 10px 30px;
 }
@@ -414,7 +414,7 @@ img {
 	margin: 0;
 }
 #footer #connect {
-	width: 240px;
+	width: 250px;
 	border-left: 1px solid #d4dcb1;
 	padding-left: 19px;
 }

@@ -1,3 +1,34 @@
+<!-- <div id="app"> -->
+        <div id="header">
+		<div>
+			<!--<div id="logo">
+				<a href="index.html"><span>Ask For Advice</span></a>
+			</div>-->
+			<ul id="navigation">
+				<li id="homeButton">
+					<a href="<?php echo base_url();?>">Home</a>
+				</li>
+				<li id="researchButton" class="selected">
+					<a href="<?php echo base_url();?>index.php/research">Research Projects</a>
+				</li>
+				<li id="expButton" >
+					<a href="<?php echo base_url();?>index.php/experience">Experience</a>
+				</li>
+				<li id="softButton"  >
+					<a href="<?php echo base_url();?>index.php/softwares">Softwares</a>
+				</li>
+				<li id="blogButton">
+					<a href="<?php echo base_url();?>index.php/blog">Blog</a>
+				</li>
+				<li id="photoButton">
+					<a href="<?php echo base_url();?>index.php/photography">Photography</a>
+				</li>
+				<li id="contactButton">
+					<a href="<?php echo base_url();?>index.php/contact">Contact</a>
+				</li>
+			</ul>
+		</div>
+	</div>
 <div id="contents">
 		<div id="about" class="body">
 			<h1>Research Projects</h1>
@@ -16,6 +47,10 @@
 			<h4>Smart Health Project</h4>
 			<p>
 				Smart Health is an Electronic Medical Record (EMR) Project which was developed in collaboration with Wenzhou Medical Centre, China. The project involves efficient storage of health examination data that has been provided by Wenzhou Medical Centre. We designed and developed the data model and stored the health examination data in an Oracle database. In this process, we developed automated tools to carry out preprocessing and normalization of the data. We also developed a scoring scheme for scoring individuals on the basis of their test results. The scoring scheme can be used to develop prediction models which can be used to predict the potential disease threat on the basis of the current health conditions of an individual.
+			</p>
+			<h4>Survival Analysis of LGR5 and Co-expressed genes for the discovery of the potential Biomarkers in Colon Adenocarcinoma (Colon Cancer)</h4>
+			<p>
+				
 			</p>
 		</div>
 	</div>
