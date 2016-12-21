@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class research extends CI_Controller {
+class Home extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -21,7 +21,7 @@ class research extends CI_Controller {
 	public function index()
 	{
 		$this->load->view ( 'templates/header' );
-		$this->load->view('research');
+		$this->load->view('home');
 		$this->load->view ( 'templates/footer' );
 	}
 }
