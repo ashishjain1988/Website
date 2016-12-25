@@ -1,34 +1,3 @@
-<!-- <div id="app"> -->
-        <div id="header">
-		<div>
-			<!--<div id="logo">
-				<a href="index.html"><span>Ask For Advice</span></a>
-			</div>-->
-			<ul id="navigation">
-				<li id="homeButton">
-					<a href="<?php echo base_url();?>">Home</a>
-				</li>
-				<li id="researchButton" >
-					<a href="<?php echo base_url();?>index.php/research">Research Projects</a>
-				</li>
-				<li id="expButton" >
-					<a href="<?php echo base_url();?>index.php/experience">Experience</a>
-				</li>
-				<li id="softButton"  >
-					<a href="<?php echo base_url();?>index.php/softwares">Softwares</a>
-				</li>
-				<li id="blogButton" >
-					<a href="<?php echo base_url();?>index.php/blog">Blog</a>
-				</li>
-				<li id="photoButton" class="selected">
-					<a href="<?php echo base_url();?>index.php/photography">Photography</a>
-				</li>
-				<li id="contactButton" >
-					<a href="<?php echo base_url();?>index.php/contact">Contact</a>
-				</li>
-			</ul>
-		</div>
-	</div>
 <div id="contents">
 		<div id="adbox">
 			<img src="<?php echo base_url(); ?>assets/images/ashish.jpg" alt="Img" style="width:450px;height:280px;">

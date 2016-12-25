@@ -1,35 +1,4 @@
-<!-- <div id="app"> -->
-        <div id="header">
-		<div>
-			<!--<div id="logo">
-				<a href="index.html"><span>Ask For Advice</span></a>
-			</div>-->
-			<ul id="navigation">
-				<li id="homeButton">
-					<a href="<?php echo base_url();?>">Home</a>
-				</li>
-				<li id="researchButton" class="selected">
-					<a href="<?php echo base_url();?>index.php/research">Research Projects</a>
-				</li>
-				<li id="expButton" >
-					<a href="<?php echo base_url();?>index.php/experience">Experience</a>
-				</li>
-				<li id="softButton"  >
-					<a href="<?php echo base_url();?>index.php/softwares">Softwares</a>
-				</li>
-				<li id="blogButton">
-					<a href="<?php echo base_url();?>index.php/blog">Blog</a>
-				</li>
-				<li id="photoButton">
-					<a href="<?php echo base_url();?>index.php/photography">Photography</a>
-				</li>
-				<li id="contactButton">
-					<a href="<?php echo base_url();?>index.php/contact">Contact</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-<div id="contents">
+<div id="contents" style="margin-top:7%;">
 		<div id="about" class="body">
 			<h1>Research Projects</h1>
 			<h4>Analysis of TGCs in Placenta Development</h4>
@@ -54,3 +23,8 @@
 			</p>
 		</div>
 	</div>
+	<script>
+$(document).ready(function() {
+	$('#researchButton').addClass('active');
+});
+</script> 

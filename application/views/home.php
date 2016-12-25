@@ -1,36 +1,5 @@
-<!-- <div id="app"> -->
-        <div id="header">
-		<div>
-			<!--<div id="logo">
-				<a href="index.html"><span>Ask For Advice</span></a>
-			</div>-->
-			<ul id="navigation">
-				<li id="homeButton" class="selected">
-					<a href="<?php echo base_url();?>">Home</a>
-				</li>
-				<li id="researchButton">
-					<a href="<?php echo base_url();?>index.php/research">Research Projects</a>
-				</li>
-				<li id="expButton">
-					<a href="<?php echo base_url();?>index.php/experience">Experience</a>
-				</li>
-				<li id="softButton">
-					<a href="<?php echo base_url();?>index.php/softwares">Softwares</a>
-				</li>
-				<li id="blogButton">
-					<a href="<?php echo base_url();?>index.php/blog">Blog</a>
-				</li>
-				<li id="photoButton">
-					<a href="<?php echo base_url();?>index.php/photography">Photography</a>
-				</li>
-				<li id="contactButton">
-					<a href="<?php echo base_url();?>index.php/contact">Contact</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-
-<div id="contents">
+<!-- <section id="" style="margin-top:0%;"> -->
+<div id="contents" style="margin-top:7%;">
 		<div id="adbox">
 			<img src="<?php echo base_url(); ?>assets/images/ashish.jpg" alt="Img" style="width:450px;height:280px;">
 			<div>
@@ -120,3 +89,28 @@
 			</div>
 		</div>
 	</div>
+
+	<script>
+$(document).ready(function() {
+	$('#homeButton').addClass('active');
+	var slideIndex = 0;
+	showSlides();
+	
+	function showSlides() {
+	    var i;
+	    var slides = document.getElementsByClassName("mySlides");
+	    var dots = document.getElementsByClassName("dot");
+	    for (i = 0; i < slides.length; i++) {
+	       slides[i].style.display = "none";
+	    }
+	    slideIndex++;
+	    if (slideIndex> slides.length) {slideIndex = 1}
+	    for (i = 0; i < dots.length; i++) {
+	        dots[i].className = dots[i].className.replace("active", "");
+	    }
+	    slides[slideIndex-1].style.display = "block";
+	    dots[slideIndex-1].className += " active";
+	    setTimeout(showSlides, 2000); // Change image every 2 seconds
+	}
+});
+</script> 

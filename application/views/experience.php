@@ -1,35 +1,4 @@
-<!-- <div id="app"> -->
-        <div id="header">
-		<div>
-			<!--<div id="logo">
-				<a href="index.html"><span>Ask For Advice</span></a>
-			</div>-->
-			<ul id="navigation">
-				<li id="homeButton">
-					<a href="<?php echo base_url();?>">Home</a>
-				</li>
-				<li id="researchButton">
-					<a href="<?php echo base_url();?>index.php/research">Research Projects</a>
-				</li>
-				<li id="expButton" class="selected">
-					<a href="<?php echo base_url();?>index.php/experience">Experience</a>
-				</li>
-				<li id="softButton"  >
-					<a href="<?php echo base_url();?>index.php/softwares">Softwares</a>
-				</li>
-				<li id="blogButton">
-					<a href="<?php echo base_url();?>index.php/blog">Blog</a>
-				</li>
-				<li id="photoButton">
-					<a href="<?php echo base_url();?>index.php/photography">Photography</a>
-				</li>
-				<li id="contactButton">
-					<a href="<?php echo base_url();?>index.php/contact">Contact</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-<div id="contents">
+<div id="contents" style="margin-top:7%;">
 		<div id="about" class="body">
 			<h1>Experience</h1>
 			<h4><a href="http://www.cancergenetics.com/" target="_blank">Cancer Genetics Inc., NJ, USA</a></h4>
@@ -45,16 +14,12 @@
 			<h4><a href="https://www.onmobile.com/" target="_blank">OnMobile Global Limted, India</a></h4>
 			<h4>Software Engineer</h4>
 			<p>
-				Worked in the application team of “OnCall” a video conferencing solution for Android Phones using SIP at OnMobile Global Limited. Working on Android programming for various features of the application. The work include 
-				<li>
-					<p>Registration and Setting Page for interaction with the native methods defined in the JNI layer.</p>
-				</li>
-				<li>
-					<p>Handling presence signals from the JNI and updates the UI accordingly.</p>
-				</li>
-				<li>
-					<p>Handling presence signals from the JNI and updates the UI accordingly.</p>
-				</li>
+				Worked in the application team of “OnCall” a video conferencing solution for Android Phones using SIP at OnMobile Global Limited. Working on Android programming for various features of the application. The work include Registration and Setting Page for interaction with the native methods defined in the JNI layer,Handling presence signals from the JNI and updates the UI accordingly, and handling presence signals from the JNI and updates the UI accordingly.
 			</p>
 		</div>
 	</div>
+	<script>
+$(document).ready(function() {
+	$('#expButton').addClass('active');
+});
+</script> 
