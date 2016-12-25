@@ -65,7 +65,7 @@
 				
 			</div>
 			<div id="sidebar">
-			<h4>Associations:</h4>
+			Current and Past Associations:
 			<img src="<?php echo base_url(); ?>assets/images/wordcloud.png" alt="Img" style="width:150%;height:150%;">
 			<a href="http://www.bcb.iastate.edu/" target="_blank"><img src="<?php echo base_url(); ?>assets/images/isu-logo.png" alt="Img" style=
 "width:150%;height:150%;"></a>
@@ -93,9 +93,6 @@
 	<script>
 $(document).ready(function() {
 	$('#homeButton').addClass('active');
-	var slideIndex = 0;
-	showSlides();
-	
 	function showSlides() {
 	    var i;
 	    var slides = document.getElementsByClassName("mySlides");
@@ -112,5 +109,9 @@ $(document).ready(function() {
 	    dots[slideIndex-1].className += " active";
 	    setTimeout(showSlides, 2000); // Change image every 2 seconds
 	}
+	
+	var slideIndex = 0;
+	showSlides();
+	
 });
 </script> 
