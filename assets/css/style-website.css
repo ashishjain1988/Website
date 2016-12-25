@@ -383,6 +383,11 @@ img {
 	font-size: 20px;
 	line-height: 40px;
 }
+
+#skills {
+	font-size: 20px;
+	line-height: 40px;
+}
 /*------------------------------ FOOTER ------------------------------*/
 /* #footer {
 	background: #ffffff url(../images/bg-footer.png) repeat-x left top;

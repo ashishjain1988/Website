@@ -10,7 +10,7 @@ Department of Genetics, Development and Cell Biology
 Iowa State University
 Ames, IA 50011
 Phone: 317-529-7973
-Email: jain@iastate.edu
+Email: jain.ashishjain1@gmail.com
                         </p>
 <!-- 			<p> -->
 <!-- 				Please contact for any query or concern. -->

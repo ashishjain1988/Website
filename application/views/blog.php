@@ -1,68 +1,31 @@
 <!-- <div id="app"> -->
 <div id="contents" style="margin-top:7%;">
 		<div id="contact" class="body">
-			<div id="main">
+			<div id="skills">
 				<h1>Skills</h1>
 				<table class="table dataset">
 			<col width="20%">
 			<col width="80%">
 			<tbody>
 				<tr>
-					<td></td>
-					<td></td>
+					<td>Programming Languages:</td>
+					<td>Java, Python, R, PHP, Android, Java Script, SQL.</td>
 				</tr>
-
-				
 				<tr>
-					<td>Publication</td>
-					<td><dl class="dl-horizontal">
-					<dt>
-					Title
-					</dt>
-					<dd>
-					
-					</dd>
-					
-					<dt>
-					Authors
-					</dt>
-					<dd>
-					
-					</dd>
-					
-					<dt>
-					Abstract
-					</dt>
-					<dd>
-					
-					</dd>
-					
-					<dt>
-					Journal
-					</dt>
-					<dd>
-					</dd>
-					
-					<dt>
-					Keywords
-					</dt>
-					<dd>
-					</dd>
-					
-					<dt>
-					Year
-					</dt>
-					<dd>
-					</dd>
-					</dl></td>
+					<td>Frameworks:</td>
+					<td>SpringMVC, Spring Security, Hibernate, CodeIgniter.</td>
 				</tr>
-				
 				<tr>
-					<td>PI Name</td>
+					<td>Databases:</td>
+					<td>MySql, Oracle, SqlLite.</td>
 				</tr>
-				
 				<tr>
-					<td>Geographic Area</td>
+					<td>Version Control Tools:</td>
+					<td>Git, Subversion.</td>
+				</tr>
+				<tr>
+					<td>Operating Systems:</td>
+					<td>Windows, Linux, Mac.</td>
 				</tr>
 			</tbody>
 

@@ -3,7 +3,7 @@
 			<h1>Research Projects</h1>
 			<h4>Analysis of TGCs in Placenta Development</h4>
 			<p>
-				We are studying the development of Trophoblast Giant Cells (TGCs) across different placenta developmental stages in the mouse. We are using a total of 28 publicly available RNA-Seq samples for carrying out our analysis. For processing the RNA-Seq samples, I developed an automated RNA-Seq pipeline which is available on github (https://github.com/ashishjain1988/NGS-Commands/wiki/RNA-Seq-Pipeline). Currently, we are carrying out the pathway and GO terms analysis to find out the differences between the In-Vitro and In-Vivo TGCs.
+				We are studying the development of Trophoblast Giant Cells (TGCs) across different placenta developmental stages in the mouse. We are using a total of 28 publicly available RNA-Seq samples for carrying out our analysis. For processing the RNA-Seq samples, I developed an automated RNA-Seq pipeline which is available on github (<a href="https://github.com/ashishjain1988/NGS-Commands/wiki/RNA-Seq-Pipeline">RNA-Seq Pipeline</a>). Currently, we are carrying out the pathway and GO terms analysis to find out the differences between the In-Vitro and In-Vivo TGCs.
 			</p>
 			<h4>SPINNER</h4>
 			<p>

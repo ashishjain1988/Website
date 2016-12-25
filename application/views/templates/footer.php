@@ -13,7 +13,7 @@
                          <h3>Around the Web</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                                <a href="https://www.linkedin.com/in/ashish-jain-395b2711" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
 <!--                             <li> -->
 <!--                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a> -->
@@ -22,7 +22,10 @@
                                 <a href="https://github.com/ashishjain1988" class="btn-social btn-outline"><i class="fa fa-fw fa-github-square"></i></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/ashish.jain22" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook-f"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/ashishjain1988" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter-square"></i></a>
                             </li>
                         </ul>
                     </div>
