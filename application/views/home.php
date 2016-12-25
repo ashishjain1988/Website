@@ -59,6 +59,7 @@
 				  <span class="dot"></span>
 				  <span class="dot"></span>
 				</div>
+				
 					<p>I am a graduate student currently pursuing his doctorate in the field of Bioinformatics and Computational Biology at Iowa State University. I did my bachelors in biotechnology from Delhi College of Engineering in the year 2011. After that, I worked in the software industry in India for three years working in telecommunications and healthcare industry. I also have a two years of experience of working experience in a bioinformatics research lab.
 					</p>
 				</ul>
