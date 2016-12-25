@@ -66,7 +66,7 @@
 				
 			</div>
 			<div id="sidebar">
-			Current and Past Associations:
+			<h4>Associations:</h4>
 			<img src="<?php echo base_url(); ?>assets/images/wordcloud.png" alt="Img" style="width:150%;height:150%;">
 			<a href="http://www.bcb.iastate.edu/" target="_blank"><img src="<?php echo base_url(); ?>assets/images/isu-logo.png" alt="Img" style=
 "width:150%;height:150%;"></a>
