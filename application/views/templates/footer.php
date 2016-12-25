@@ -5,9 +5,9 @@
                 <div class="row">
                 <!-- <hr class="star-light"> -->
                     <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>2156,Molecular Biology Building
-                            <br>Iowa State University, Ames, IA</p>
+<!--                         <h3>Location</h3> -->
+<!--                         <p>2156,Molecular Biology Building -->
+<!--                             <br>Iowa State University, Ames, IA</p> -->
                     </div>
                     <div class="footer-col col-md-4">
                          <h3>Around the Web</h3>
@@ -26,10 +26,10 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="footer-col col-md-4">
-                        <h3>About Us</h3>
-                        <p></p>
-                    </div>
+<!--                     <div class="footer-col col-md-4"> -->
+<!--                         <h3>About Us</h3> -->
+<!--                         <p></p> -->
+<!--                     </div> -->
                 </div>
             </div>
         </div>

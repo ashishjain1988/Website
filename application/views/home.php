@@ -59,7 +59,7 @@
 				  <span class="dot"></span>
 				  <span class="dot"></span>
 				</div>
-					<p>Ashish is a graduate student currently pursuing his doctorate in the field of Bioinformatics and Computational Biology at Iowa State University.
+					<p>I am a graduate student currently pursuing his doctorate in the field of Bioinformatics and Computational Biology at Iowa State University. I did my bachelors in biotechnology from Delhi College of Engineering in year 2011. After that, I worked in software industry in India for three years working in telecommuncations and healthcare industry. This experience has taught me a lot about various programming  
 					</p>
 				</ul>
 				

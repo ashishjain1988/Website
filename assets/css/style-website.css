@@ -377,6 +377,12 @@ img {
 #contact input.btn:hover {
 	background-color: #d9e5a9;
 }
+
+#contact p {
+	color: #710b9b;
+	font-size: 20px;
+	line-height: 40px;
+}
 /*------------------------------ FOOTER ------------------------------*/
 /* #footer {
 	background: #ffffff url(../images/bg-footer.png) repeat-x left top;

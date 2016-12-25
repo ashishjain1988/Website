@@ -109,7 +109,7 @@ if (isset($_SESSION['name'])) {
 					<a href="<?php echo base_url();?>index.php/softwares">Softwares</a>
 				</li>
 				<li id="blogButton" class="page-scroll">
-					<a href="<?php echo base_url();?>index.php/blog">Blog</a>
+					<a href="<?php echo base_url();?>index.php/blog">Skills</a>
 				</li>
 				<!-- <li id="photoButton" class="page-scroll">
 					<a href="<?php echo base_url();?>index.php/photography">Photography</a>
