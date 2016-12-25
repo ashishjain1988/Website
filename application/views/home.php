@@ -93,9 +93,6 @@
 	<script>
 $(document).ready(function() {
 	$('#homeButton').addClass('active');
-	var slideIndex = 0;
-	showSlides();
-	
 	function showSlides() {
 	    var i;
 	    var slides = document.getElementsByClassName("mySlides");
@@ -112,5 +109,9 @@ $(document).ready(function() {
 	    dots[slideIndex-1].className += " active";
 	    setTimeout(showSlides, 2000); // Change image every 2 seconds
 	}
+	
+	var slideIndex = 0;
+	showSlides();
+	
 });
 </script> 
