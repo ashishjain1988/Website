@@ -3,7 +3,7 @@
 			<h1>Research Projects</h1>
 			<h4>Analysis of TGCs in Placenta Development</h4>
 			<p>
-				We are studying the development of Trophoblast Giant Cells (TGCs) across different placenta developmental stages in the mouse. We are using a total of 28 publicly available RNA-Seq samples for carrying out our analysis. For processing the RNA-Seq samples, I developed an automated RNA-Seq pipeline which is available on github (https://github.com/ashishjain1988/NGS-Commands/wiki/RNA-Seq-Pipeline). Currently, we are carrying out the pathway and GO terms analysis to find out the differences between the In-Vitro and In-Vivo TGCs.
+				We are studying the development of Trophoblast Giant Cells (TGCs) across different placenta developmental stages in the mouse. We are using a total of 28 publicly available RNA-Seq samples for carrying out our analysis. For processing the RNA-Seq samples, I developed an automated RNA-Seq pipeline which is available on github (<a href="https://github.com/ashishjain1988/NGS-Commands/wiki/RNA-Seq-Pipeline">RNA-Seq Pipeline</a>). Currently, we are carrying out the pathway and GO terms analysis to find out the differences between the In-Vitro and In-Vivo TGCs.
 			</p>
 			<h4>SPINNER</h4>
 			<p>
@@ -16,9 +16,9 @@
 			<h4>Smart Health Project</h4>
 			<p>
 				Smart Health is an Electronic Medical Record (EMR) Project which was developed in collaboration with Wenzhou Medical Centre, China. The project involves efficient storage of health examination data that has been provided by Wenzhou Medical Centre. We designed and developed the data model and stored the health examination data in an Oracle database. In this process, we developed automated tools to carry out preprocessing and normalization of the data. We also developed a scoring scheme for scoring individuals on the basis of their test results. The scoring scheme can be used to develop prediction models which can be used to predict the potential disease threat on the basis of the current health conditions of an individual.
-			</p>
+			<!-- </p>
 			<h4>Survival Analysis of LGR5 and Co-expressed genes for the discovery of the potential Biomarkers in Colon Adenocarcinoma (Colon Cancer)</h4>
-			<p>
+			<p> -->
 				
 			</p>
 		</div>
