@@ -1,6 +1,6 @@
 <!-- <section id="" style="margin-top:0%;"> -->
 <div id="contents" style="margin-top:7%;">
-		<div id="adbox">
+		<div id="picture">
 			<img src="<?php echo base_url(); ?>assets/images/ashish.jpg" alt="Img" style="width:450px;height:280px;">
 			<div>
 			<h1>Ashish Jain</h1>
