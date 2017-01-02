@@ -137,23 +137,23 @@ img {
 	text-decoration: underline;
 }
 /** Adbox **/
-#adbox {
+#picture{
 	font-family: 'Arvo-Regular';
 	width: 1000px;
 	margin: 0 auto;
 	padding: 10 50px;
 }
-#adbox img {
+#picture img {
 	float: left;
 	margin-right: 60px;
 }
-#adbox h1 {
+#picture h1 {
 	font-size: 35px;
 	margin: 0 0 0px;
 	padding-top: 10px;
 	text-transform: uppercase;
 }
-#adbox p {
+#picture p {
 	color: #710b9b;
 	font-size: 20px;
 	line-height: 40px;
@@ -380,6 +380,11 @@ img {
 
 #contact p {
 	color: #710b9b;
+	font-size: 20px;
+	line-height: 40px;
+}
+
+#skills {
 	font-size: 20px;
 	line-height: 40px;
 }
